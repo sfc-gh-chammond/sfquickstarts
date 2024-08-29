@@ -1,13 +1,13 @@
 author: Charlie Hammond
 id: getting-started-with-ml-lineage
-summary: This is a sample Snowflake Guide
+summary: This guide will go through the different features of Snowflake ML Lineage
 categories: data-science, data-science-&-ml, Getting-Started, Notebooks
 environments: web
 status: Published 
 feedback link: https://github.com/Snowflake-Labs/sfguides/issues
 tags: Getting Started, Data Science 
 
-# Develop and Manage ML Models with Feature Store and Model Registry
+# Getting Started with ML Lineage
 <!-- ------------------------ -->
 ## Overview 
 Duration: 1
